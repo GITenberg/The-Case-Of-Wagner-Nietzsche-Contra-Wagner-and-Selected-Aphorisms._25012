@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/779
     wikipedia: http://en.wikipedia.org/wiki/Friedrich_Nietzsche
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25012#The-Case-Of-Wagner-Nietzsche-Contra-Wagner-and-Selected-Aphorisms.
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2008-04-07'
 gutenberg_type: Text
